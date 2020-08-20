@@ -1,0 +1,2 @@
+# EFI OC ACER E5 475G
+ EFI OC ACER E5 475G for macOS BigSur
